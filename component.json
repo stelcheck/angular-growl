@@ -1,0 +1,11 @@
+{
+  "name": "angular-growl",
+  "description": "growl-like notifications for angularJS projects",
+  "scripts": [
+    "./build/angular-growl.min.js"
+  ],
+  "styles": [
+    "./build/angular-growl.min.css"
+  ],
+  "main": "./build/angular-growl.min.js"
+}
